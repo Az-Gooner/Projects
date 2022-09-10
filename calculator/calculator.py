@@ -26,7 +26,7 @@ elif operation == "division":
 
 elif operation == "multiple":
     first_value = input("enter first value: ")
-    second_value = input("enter second value")
+    second_value = input("enter second value: ")
     
     total = int(first_value) * int(second_value)
 

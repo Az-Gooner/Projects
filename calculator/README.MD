@@ -1,1 +1,1 @@
-This is my first project using python 
+The following folder is a starter guide of work that I have done

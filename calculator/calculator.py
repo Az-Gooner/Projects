@@ -32,3 +32,4 @@ elif operation == "multiple":
 
     print (total)
 
+

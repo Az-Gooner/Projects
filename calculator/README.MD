@@ -1,1 +1,1 @@
-The following folder is a starter guide of work that I have done
+This folder shows my the calculator that I coded

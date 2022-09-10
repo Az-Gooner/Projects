@@ -32,4 +32,6 @@ elif operation == "multiple":
 
     print (total)
 
+else: print("error")
+
 

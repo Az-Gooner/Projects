@@ -1,1 +1,1 @@
-This folder shows my the calculator that I coded
+This folder shows the projects that I have coded
